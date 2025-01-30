@@ -104,4 +104,4 @@ This program is a simple "Guess the Number" game implemented in C++ using binary
 
 This code was written as a fun and educational exercise to demonstrate binary search and interactive programming in C++.
 
-Enjoy playing the game! 😊
+Enjoy playing the game! 
