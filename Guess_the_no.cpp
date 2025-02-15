@@ -13,7 +13,7 @@ int main() {
     cout << "Can you guess what it is? Let's begin!" << endl;
 
     while (true) {
-        guess = (low + high) / 2; // Binary search: pick the middle number
+        guess = (low + high) / 2; 
         attempts++;
 
         cout << "Is the number " << guess << "? (Enter 'h' for higher, 'l' for lower, 'c' for correct): ";
