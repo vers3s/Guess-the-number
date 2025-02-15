@@ -24,7 +24,7 @@ int main() {
             cout << "Congratulations! You guessed the number in " << attempts << " attempts." << endl;
             break;
         } else if (response == 'h') {
-            low = guess + 1; // Adjust the lower bound
+            low = guess + 1; 
         } else if (response == 'l') {
             high = guess - 1; // Adjust the upper bound
         } else {
